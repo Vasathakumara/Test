@@ -1,3 +1,3 @@
 Good morning
 we are going to banglore enjoying
-Merging from local
+Murging from local to Merging from remote
