@@ -1,5 +1,4 @@
 <<<<<<< HEAD
  Good morning all
-=======
 Hi good evening 
 >>>>>>> d12cd0784fbecb78cdb8400c167045b600523f9a
